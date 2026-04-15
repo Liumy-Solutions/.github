@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/liumy-logo.png" alt="Liumy Logo" width="200" />
+  <img src="liumy-icon.png" alt="Liumy Logo" width="200" />
 
   # Liumy | Building Digital Ecosystems 🚀
   
